@@ -1,0 +1,14 @@
+﻿{
+  "Name": "수입신고확인증",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "uHHkWmNB-02uDaN7uA-5vQ",
+  "Reference": "AdHf_f25iE-kYnTnJHNz8A/uHHkWmNB-02uDaN7uA-5vQ",
+  "ParentRef": "AdHf_f25iE-kYnTnJHNz8A/pJ1WZDIVaE6gTM7czrxVqg",
+  "Created": "2026-11-19T01:57:35.903421Z",
+  "Updated": "2026-11-19T01:57:35.903421Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

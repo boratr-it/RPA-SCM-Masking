@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ZIP 다운로드",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "f1PGgiQ4e0WxXf6fgPzKrQ",
+  "Reference": "AdHf_f25iE-kYnTnJHNz8A/f1PGgiQ4e0WxXf6fgPzKrQ",
+  "ParentRef": "AdHf_f25iE-kYnTnJHNz8A/pJ1WZDIVaE6gTM7czrxVqg",
+  "Created": "2026-11-16T08:51:52.6653614Z",
+  "Updated": "2026-11-16T08:51:52.6653614Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

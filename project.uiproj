@@ -1,0 +1,6 @@
+{
+  "Name": "수입서류 자동업로드",
+  "ProjectType": "Process",
+  "Description": "빈 프로세스",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "마스킹 실행",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "zat9aPP0dE-7A7-k21GEIQ",
+  "Reference": "AdHf_f25iE-kYnTnJHNz8A/zat9aPP0dE-7A7-k21GEIQ",
+  "ParentRef": "AdHf_f25iE-kYnTnJHNz8A/pJ1WZDIVaE6gTM7czrxVqg",
+  "Created": "2026-11-16T08:50:10.8393635Z",
+  "Updated": "2026-11-16T08:50:10.8393635Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

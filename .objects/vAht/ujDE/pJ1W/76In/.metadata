@@ -1,0 +1,14 @@
+﻿{
+  "Name": "다른 이름으로 저장",
+  "Type": "Element",
+  "TaxonomyType": "Container",
+  "Id": "76InequmjUK3nVNG8vvV_w",
+  "Reference": "AdHf_f25iE-kYnTnJHNz8A/76InequmjUK3nVNG8vvV_w",
+  "ParentRef": "AdHf_f25iE-kYnTnJHNz8A/pJ1WZDIVaE6gTM7czrxVqg",
+  "Created": "2026-11-24T08:29:41.9136685Z",
+  "Updated": "2026-11-24T08:29:41.9136685Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

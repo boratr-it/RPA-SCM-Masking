@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_SnKgRpOnkekY6YgpFnfIw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="192.168.0.20" DesignTimeRectangle="885, 285, 98, 18" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='수입신고확인증' tag='SPAN' /&gt;" Guid="233fc7aa-0406-45fa-809e-84d436eb0563" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PDF 마스킹' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dae7a77546b6f4f9bb02803e9998b908.jpg" xmlns="">0y3aEPaPOLEuQ9En-cQ67GQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

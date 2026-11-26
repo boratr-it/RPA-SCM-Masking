@@ -1,0 +1,14 @@
+﻿{
+  "Name": "예(&Y)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "0GTEYNcDT0y-Z6A8ciJ7Kg",
+  "Reference": "AdHf_f25iE-kYnTnJHNz8A/0GTEYNcDT0y-Z6A8ciJ7Kg",
+  "ParentRef": "AdHf_f25iE-kYnTnJHNz8A/pJ1WZDIVaE6gTM7czrxVqg",
+  "Created": "2026-11-24T08:42:09.8146023Z",
+  "Updated": "2026-11-24T08:42:09.8146023Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

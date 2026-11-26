@@ -1,0 +1,14 @@
+﻿{
+  "Name": "레이블",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "shaQoNeY70ilabsywWh7sA",
+  "Reference": "AdHf_f25iE-kYnTnJHNz8A/shaQoNeY70ilabsywWh7sA",
+  "ParentRef": "AdHf_f25iE-kYnTnJHNz8A/7T_n110vGEOQY0bpFjwopg",
+  "Created": "2026-11-12T07:44:42.9244659Z",
+  "Updated": "2026-11-12T07:44:42.9244659Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

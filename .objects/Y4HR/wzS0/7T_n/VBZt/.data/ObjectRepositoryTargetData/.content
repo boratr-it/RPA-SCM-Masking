@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bnBtu8Ir90KFYICmcCd70A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="143, 273, 150, 35" ElementType="TableHeader" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='P_TR_BRTR_IMPORT_RPT' /&gt;&lt;wnd ctrlname='mDataArea' /&gt;&lt;wnd ctrlname='tableLayoutPanel1' /&gt;&lt;wnd ctrlname='_flex' /&gt;&lt;ctrl name='0' role='row' /&gt;&lt;ctrl name='DT_LIMIT' role='column header' /&gt;" Guid="a73c9c70-b0fc-4281-9bdb-7128c4800529" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4a237e0ab1db3cfb5ae9a9a68fc4a1bb.jpg" xmlns="">0J67LhE4IY0m0msv0nQSezQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

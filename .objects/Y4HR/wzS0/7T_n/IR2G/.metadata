@@ -1,0 +1,13 @@
+﻿{
+  "Name": "20261010",
+  "Type": "Element",
+  "Id": "IR2GIISYZ02XE5c_hMObjA",
+  "Reference": "AdHf_f25iE-kYnTnJHNz8A/IR2GIISYZ02XE5c_hMObjA",
+  "ParentRef": "AdHf_f25iE-kYnTnJHNz8A/7T_n110vGEOQY0bpFjwopg",
+  "Created": "2026-11-12T07:47:34.8781431Z",
+  "Updated": "2026-11-12T07:47:34.8781431Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

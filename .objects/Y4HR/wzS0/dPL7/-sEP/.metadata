@@ -1,0 +1,14 @@
+﻿{
+  "Name": "무역 종합현황판",
+  "Type": "Element",
+  "TaxonomyType": "Container",
+  "Id": "-sEP9bIm_0GT9gKFD2lS9w",
+  "Reference": "AdHf_f25iE-kYnTnJHNz8A/-sEP9bIm_0GT9gKFD2lS9w",
+  "ParentRef": "AdHf_f25iE-kYnTnJHNz8A/dPL7Ffc5DU6Url4Wfz8u7g",
+  "Created": "2026-11-12T05:56:27.9373449Z",
+  "Updated": "2026-11-12T05:56:27.9373449Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

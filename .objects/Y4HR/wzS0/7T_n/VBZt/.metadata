@@ -1,0 +1,13 @@
+﻿{
+  "Name": "입항일(발주등록)",
+  "Type": "Element",
+  "Id": "VBZtRLutVEyYIDQeb_yBzw",
+  "Reference": "AdHf_f25iE-kYnTnJHNz8A/VBZtRLutVEyYIDQeb_yBzw",
+  "ParentRef": "AdHf_f25iE-kYnTnJHNz8A/7T_n110vGEOQY0bpFjwopg",
+  "Created": "2026-11-12T07:46:56.6778229Z",
+  "Updated": "2026-11-12T07:46:56.6778229Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
